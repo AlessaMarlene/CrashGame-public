@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CrashGame-public/static/css/main.5740f216.css",
-    "main.js": "/CrashGame-public/static/js/main.6b5ccbff.js",
+    "main.js": "/CrashGame-public/static/js/main.c7224816.js",
     "static/js/787.8b381bd1.chunk.js": "/CrashGame-public/static/js/787.8b381bd1.chunk.js",
     "index.html": "/CrashGame-public/index.html",
     "main.5740f216.css.map": "/CrashGame-public/static/css/main.5740f216.css.map",
-    "main.6b5ccbff.js.map": "/CrashGame-public/static/js/main.6b5ccbff.js.map",
+    "main.c7224816.js.map": "/CrashGame-public/static/js/main.c7224816.js.map",
     "787.8b381bd1.chunk.js.map": "/CrashGame-public/static/js/787.8b381bd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5740f216.css",
-    "static/js/main.6b5ccbff.js"
+    "static/js/main.c7224816.js"
   ]
 }
